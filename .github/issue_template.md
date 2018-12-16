@@ -1,7 +1,7 @@
-# What do you want to say or think is a problem?
+## What do you want to say or think is a problem?
 
 
-# Checklist
+## Checklist
 Don't forget to give information as the following.
 
 - label
